@@ -79,6 +79,7 @@ document.addEventListener("DOMContentLoadeds", function() {
     document.getElementById("school-name-filter").value= "";
   });
 
+//When the map zooms, reapply the style layer to allow for markers to resize.
 
 
 
